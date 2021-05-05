@@ -1,0 +1,25 @@
+body {
+  background-color: #f9f7f7;
+}
+
+hr {
+  border-color: #dbe2ef;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 10%;
+}
+
+h1 {
+  color: #3f72af;
+}
+
+h3 {
+  color: #3f72af;
+}
+
+.robert3 {
+  border-color: #112d4e;
+  border-style: solid;
+  border-radius: 100%;
+}
